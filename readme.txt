@@ -20,7 +20,7 @@ Python 3.8
 Steps to Run the Program :
 
 1. Run " currconvert.py "  file in Python Console.
-2. Enter the currency when prompted in numeric form ex : 198   
+2. Enter the currency when prompted in numeric for ex : 198   
 3. Hit Enter .
 4. Output will be printed on console.
 
